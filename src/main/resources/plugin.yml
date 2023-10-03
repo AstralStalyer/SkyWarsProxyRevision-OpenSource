@@ -1,0 +1,4 @@
+name: SkyWarsProxy
+main: cn.starry.skywars.proxy.SkyWarsProxy
+version: 1.0.1-SNAPSHOT
+author: Starry_Killer
